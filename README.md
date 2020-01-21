@@ -1,2 +1,2 @@
 # extra_session
-This is an extra session example
+This is an example from the extra session on GitHub
